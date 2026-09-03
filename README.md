@@ -18,7 +18,7 @@ Git • GitHub • Postman • FFmpeg
 
 ### 🎯 Currently Learning
 
-Generative AI • RAG • Backend Architecture • Docker
+Generative AI • RAG • Backend Architecture 
 
 ### 🤝 Connect
 
